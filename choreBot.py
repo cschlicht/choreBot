@@ -1,1 +1,9 @@
-#isaac sucks
+# Import libraries
+
+
+
+# Dictionaru initialization
+
+
+
+# Chore algo
