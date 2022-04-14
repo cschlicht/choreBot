@@ -13,6 +13,20 @@ troy = 4
 steve = 5
 cameron = 6
 
+
+# FIFO Queue for weekly
+weekly = ['isaac', 'steve', 'troy', 'adam', 'arya', 'benji', 'cameron']
+
+def weekly_roto():
+    popped = weekly.pop(0)
+    weekly.append(popped)
+
+print(f'before roto: {weekly}')
+
+weekly_roto()
+
+print(f'after roto: {weekly}')
+
 # Chore algo
 
 
