@@ -2,7 +2,7 @@
 
 
 
-# Dictionaru initialization
+# Dictionary initialization
 
 
 
